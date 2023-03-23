@@ -1,6 +1,6 @@
 
 # Hi there! 👋
-![ Unity Game Developer; Programmer; CSharp Programmer](https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Game%20Unity+Game+Developer;+Programmer;C#+Programmer)
+![ Unity Game Developer; Programmer; CSharp Programmer](https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=%20Unity+Game+Developer;+Programmer;CSharp+Programmer)
 Hello, my name is Abdulrahman and I am a game developer with experience using Unity and C#. I am passionate about creating games that are both fun and challenging. I have worked on many projects before, including mobile games, PC games, and console games. I have experience working with different game engines and programming languages, but I find Unity and C# to be the most versatile and user-friendly. I am always looking for new and exciting projects to work on, and I am constantly learning and improving my skills to stay up-to-date with the latest trends and technologies in the gaming industry.
 t
 
