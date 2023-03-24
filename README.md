@@ -62,7 +62,6 @@ Welcom to My Github Account, my name is Abdulrahman and I am a game developer wi
         <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="48" height="48" alt="Flutter" />
       <br>Flutter
-          <td align="center" width="96">
  </tr>
 </table>
 
