@@ -7,15 +7,15 @@
  
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@rzashakeri">
+<a href="https://www.youtube.com/@UniverseofCode">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.twitter.com/rzashakeri/">
+<a href="https://www.twitter.com/abdulrahmanabsT/">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rzashakeri/">
+<a href="https://www.linkedin.com/in/abdalrahmanabs/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 
@@ -65,16 +65,6 @@ Welcom to My Github Account, my name is Abdulrahman and I am a game developer wi
           <td align="center" width="96">
  </tr>
 </table>
-
-
-## Github stats 📊 
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
 
 ## GitHub Profile Trophy 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdalrahmanabs&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
