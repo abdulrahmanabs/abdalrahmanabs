@@ -2,8 +2,7 @@
 <div align="justify">
 
 
-![ Unity Game Developer; Programmer; CSharp Programmer](https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Hi+There!+,+I'm+Abdulrahman)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Coda&weight=700&size=39&pause=1000&color=2CF7EE&background=FF000000&center=true&width=644&height=72&lines=Hi+There+%F0%9F%91%8B!+I'm+Abdulrahman)](https://git.io/typing-svg)
  
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
