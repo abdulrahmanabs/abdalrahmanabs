@@ -1,8 +1,7 @@
 
 <div align="justify">
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Coda&weight=700&size=40&duration=2500&pause=1000&color=2CF7EE&background=FF000000&center=true&multiline=true&width=644&height=150&lines=Hi+There+%F0%9F%91%8B!+;I'm+Abdulrahman)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Coda&weight=700&size=40&duration=2500&pause=1000&color=2CF7EE&background=FF000000&center=true&vCenter=true&multiline=true&width=644&height=150&lines=Hi+There+%F0%9F%91%8B!+;I'm+Abdulrahman)](https://git.io/typing-svg)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@UniverseofCode">
