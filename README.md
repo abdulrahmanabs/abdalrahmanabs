@@ -1,66 +1,50 @@
+<h2 align="left">Hi 👋! My name is Abdulrahman and I'm a Game Developer and Flutter Developer</h2>
 
-<div align="justify">
+###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Coda&weight=700&size=40&duration=2500&pause=1000&color=2CF7EE&background=FF000000&center=true&vCenter=true&multiline=true&width=644&height=150&lines=Hi+There+%F0%9F%91%8B!+;I'm+Abdulrahman)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanabs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=abdulrahmanabs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmanabs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@UniverseofCode">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.twitter.com/abdulrahmanabsT/">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abdulrahmanabs/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
+###
 
- 
-</div> 
-<p></p>
-<p align="justify"> 
-Welcom to My Github Account, my name is Abdulrahman and I am a game developer with experience using Unity and C#. I am passionate about creating games that are both fun and challenging. I have worked on many projects before, including mobile games, PC games, and console games. I have experience working with different game engines and programming languages, but I find Unity and C# to be the most versatile and user-friendly. I am always looking for new and exciting projects to work on, and I am constantly learning and improving my skills to stay up-to-date with the latest trends and technologies in the gaming industry.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+</div>
 
+###
 
- 
+<div align="left">
+  <a href="youtube.com/@universeofCode" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://linkedin.com/abdulrahmanabs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="abdulrahman_abs@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="twitter.com/abdulrahmanabsT" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
-</p>
+###
 
-## My favorite tools and technologies ⚙️ 
+<br clear="both">
 
-> Tools and technologies that I have worked with and am interested in
+<img src="https://raw.githubusercontent.com/abdulrahmanabs/abdulrahmanabs/output/snake.svg" alt="Snake animation" />
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="https://preview.redd.it/vtzpl5c9yd181.png?width=512&format=png&auto=webp&s=d0ce01fbd57c089dc06a2cc2c1252a6da7e4658a" alt="icon" width="65" height="65" />
-      <br>Unity
-    </td>
-  <tr>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="48" height="48" alt="Dart" />
-      <br>Dart
-    </td>
-        <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="48" height="48" alt="Flutter" />
-      <br>Flutter
- </tr>
-</table>
-
-## GitHub Profile Trophy 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdalrahmanabs&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+###
